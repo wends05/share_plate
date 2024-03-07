@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153145527969",
+    "project_id": "shareplate-innoventors",
+    "storage_bucket": "shareplate-innoventors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153145527969:android:cea95d10a25a2187c7aae0",
+        "android_client_info": {
+          "package_name": "com.example.shareplate_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153145527969-0pgtntclh3cc8meo6t5je2cbkb6h3q3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDadQ1OAMATi7wsCO9_VnsBpwG0_0fNlyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153145527969-0pgtntclh3cc8meo6t5je2cbkb6h3q3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
